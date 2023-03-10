@@ -16,6 +16,7 @@ Dataset 'GuyFoxMask-Glasses' was collected in Innopolis University using smartph
 ## Annotation
 
 To annote 92 images I used robflow. By the end of annotation process I got 107 instancess of 2 objects. 50 for GuyFoxMask and 57 for Glasses
+I've split the data set to train|val|test in folowwing proportion 70%|18%|12% or 64|17|11 images.
 ![alt text](https://github.com/Extrabution/GuyFoxMask-Glasses-Detection/blob/main/images/RoboflowAnnotate.png?raw=true)
 
 ## Training Faster R-CNN

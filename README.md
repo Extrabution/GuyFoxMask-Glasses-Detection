@@ -49,4 +49,4 @@ For training YOLOv8-nano I used ultralytics pre-trained model. I hyper tuned bat
 
 We can see that YOLO is way faster in train time and inference. Size of the weights of the model is smaller too (simply because we used nano version of the model) Map results is quite interesting as for yolo map is ~0.9 and for faster rcnn is 0.6, even though faster rcnn showed better results on the test dataset(recognized objects more precisely).
 
-In colnlusion, Yolo is very light and fast detection model, that shows great results on small datasets, while faster rcnn is a heavy model that workers slower, but shows good results too.
+In colnlusion, Yolo is very light and fast detection model, that shows great results on small datasets, while faster rcnn is a heavy model that works slower, but shows good results too.
